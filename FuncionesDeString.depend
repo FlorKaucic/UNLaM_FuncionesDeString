@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1398467407 source:d:\documents\facultad\renata\github\funcionesdestring\main.c
+	<stdio.h>
+	"test.h"
+
+1398467007 d:\documents\facultad\renata\github\funcionesdestring\test.h
+	"stringfunction.h"
+
+1398466682 d:\documents\facultad\renata\github\funcionesdestring\stringfunction.h
+
+1398466682 source:d:\documents\facultad\renata\github\funcionesdestring\stringfunction.c
+	"stringfunction.h"
+
+1398467393 source:d:\documents\facultad\renata\github\funcionesdestring\test.c
+	"test.h"
+
